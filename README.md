@@ -5,7 +5,7 @@ Download de vídeos do Youtube e áudio
 
 1) Baixe o arquivo "Baixar vídeo do Youtube.py"
 2) Antes de compilar o programa, instalar o yt_dlp:
-   Faça isso com o código: pip install yt-dlp
+    Faça isso com o código: pip install yt-dlp
 3) "Rode" o programa no compilador de sua preferência
 4) O programa pedirá para inserir a url do vídeo do Youtube
 5) Após digitar a url aperte ENTER
